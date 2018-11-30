@@ -9,3 +9,5 @@ Another new update to test if everything is working well
 ANOTHER CHANGE IN MY FILE
 
 Vecernje ponavljanje
+
+PETAK - ponavljanje
